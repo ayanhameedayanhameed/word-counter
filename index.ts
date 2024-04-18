@@ -20,5 +20,5 @@ const answers: {
 
  console.log(words)
 
- console.log(chalk.green(`Your sentence word count is ${words.length}`));
+ console.log(chalk.yellow(`Your sentence word count is ${words.length}`));
  
